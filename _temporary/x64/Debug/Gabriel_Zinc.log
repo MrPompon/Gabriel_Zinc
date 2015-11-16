@@ -1,0 +1,13 @@
+﻿Build started 11/16/2015 11:52:30 AM.
+     1>Project "C:\Users\Mrpompon\github\Gabriel_Zinc\build\Gabriel_Zinc\Gabriel_Zinc.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I../../include /I"C:\Program Files (x86)\Visual Leak Detector\include" /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W4 /WX /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"../../_temporary/x64/Debug/" /Fd"../../_temporary/x64/Debug/vc120.pdb" /Gd /TP /errorReport:prompt ..\..\source\winmain.cpp
+         winmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"../../_binary/Gabriel_Zinc64d.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"../../_binary/Gabriel_Zinc64d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"../../_binary/Gabriel_Zinc64d.lib" /MACHINE:X64 ../../_temporary/x64/Debug/winmain.obj
+         Gabriel_Zinc.vcxproj -> C:\Users\Mrpompon\github\Gabriel_Zinc\build\Gabriel_Zinc\../../_binary/Gabriel_Zinc64d.exe
+     1>Done Building Project "C:\Users\Mrpompon\github\Gabriel_Zinc\build\Gabriel_Zinc\Gabriel_Zinc.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03

@@ -1,0 +1,6 @@
+_binary/
+_temportary/
+
+*.exe
+*.dll
+*.so
